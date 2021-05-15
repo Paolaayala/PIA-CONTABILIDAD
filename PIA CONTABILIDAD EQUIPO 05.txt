@@ -1,13 +1,13 @@
-#MATRIZ DE 1.- Presupuesto de ventas.
+#MATRICES DE 1.- Presupuesto de ventas.
 mtzArt = []
 dicArt =  dict(CodigoArt = "", NomArt = "")
 listaValArt = []
 
-#MATRIZ DE 2.- Determinación del saldo de Clientes y Flujo de Entradas.
+#MATRICES DE 2.- Determinación del saldo de Clientes y Flujo de Entradas.
 mtzVenta = []
 dicPventa = dict(CodigoArt = "", UnitVender = "", PVenta = "", Semestre = 0)
 
-#MATRIZ DE 3.- Presupuesto de Producción.
+#MATRICES DE 3.- Presupuesto de Producción.
 dicPProduccion = dict(CodigoArt = "",UnidVender = 0 , InvInicial = 0, InvFinal = 0, Semestre = 0)
 mtzPProduccion = []
 
