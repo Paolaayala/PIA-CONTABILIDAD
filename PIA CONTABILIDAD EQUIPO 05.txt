@@ -68,7 +68,7 @@ mtzArt.append(dicArt.copy())
 
 Opcion = 0
 while (Opcion != 12):
-    print ("Sistema de contabilidad FACPYA ==\n1.- Presupuesto de ventas. \n2.- Determinación del saldo de Clientes y Flujo de Entradas.")
+    print ("Sistema de contabilidad MARINON ==\n1.- Presupuesto de ventas. \n2.- Determinación del saldo de Clientes y Flujo de Entradas.")
     print ("3.- Presupuesto de Producción. \n4.- Presupuesto de Requerimiento de Materiales.\n5.- Presupuesto de Compra de Materiales.")
     print ("6.- Determinación del saldo de Proveedores y Flujo de Salidas.\n7.- Presupuesto de Mano de Obra Directa.\n8.- Presupuesto de Gastos Indirectos de Fabricación.")
     print ("9.- Presupuesto de Gastos de Operación.\n10.- Determinación del Costo Unitario de Productos Terminados.\n11.- Valuación de Inventarios Finales.")
