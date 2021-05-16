@@ -292,11 +292,11 @@ while (Opcion != 12):
         for Cont in range(0,len(mtzMateriales)):
             if Cont == 0 or not (Cont%2) == 0 and not Cont == 1:
                 if (mtzMateriales[Cont]["CodigoArt"]) == "1":
-                    Nombre = "CL"
+                    Nombre = "CB"
                 elif (mtzMateriales[Cont]["CodigoArt"]) == "2":
-                    Nombre = "CE"
+                    Nombre = "G"
                 else:
-                    Nombre = "CR"
+                    Nombre = "LE"
 
                 UNITProd1 = mtzMateriales[Cont]["UndProducir"]
                 ReqMatA1 = mtzMateriales[Cont]["MaterialA"]
