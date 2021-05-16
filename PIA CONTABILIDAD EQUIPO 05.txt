@@ -55,15 +55,15 @@ A2Sem2=0.0
 A3Sem1=0.0
 A3Sem2=0.0
 dicArt["CodigoArt"] = "1"
-dicArt["NomArt"] = "CL"
+dicArt["NomArt"] = "CB"
 mtzArt.append(dicArt.copy())
 
 dicArt["CodigoArt"] = "2"
-dicArt["NomArt"] = "CE"
+dicArt["NomArt"] = "G"
 mtzArt.append(dicArt.copy())
 
 dicArt["CodigoArt"] = "3"
-dicArt["NomArt"] = "CR"
+dicArt["NomArt"] = "LE"
 mtzArt.append(dicArt.copy())
 
 Opcion = 0
